@@ -1,0 +1,39 @@
+.container {
+    margin-top: 5rem;
+}
+
+.card-img-top {
+    height: 150px;
+    object-fit: cover;
+}
+
+.card-title {
+    margin-top: 1rem;
+}
+
+.table img {
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+}
+
+.navbar {
+    background-color: #000000;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar-nav .nav-item .nav-link {
+    margin-right: 1rem;
+}
+
+.navbar-nav .nav-item .nav-link:last-child {
+    margin-right: 0;
+}
+
+#cart-count {
+    font-weight: bold;
+    color: rgb(0, 30, 255);
+}
